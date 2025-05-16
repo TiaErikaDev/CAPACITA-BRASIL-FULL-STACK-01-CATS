@@ -14,8 +14,5 @@ Você pode acessar o código-fonte diretamente neste repositório:
 
 🔗 [Repositório no GitHub](https://github.com/TiaErikaDev/CAPACITA-BRASIL-FULL-STACK-01-CATS)
 
-Para visualizar em seu navegador:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/TiaErikaDev/CAPACITA-BRASIL-FULL-STACK-01-CATS.git
+Para visualiza:
+https://tiaerikadev.github.io/CAPACITA-BRASIL-FULL-STACK-01-CATS/ 
